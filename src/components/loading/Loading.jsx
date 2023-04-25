@@ -5,7 +5,7 @@ export const Loading = ({
                             testId = 'component',
                             overlay = false,
                             className = '',
-                            size = 'sm',
+                            size = 'lg',
                             visible,
                         }) => {
 

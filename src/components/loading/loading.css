@@ -34,7 +34,7 @@
 
 .c-loading-spinner:after {
     animation: loading 800ms infinite linear;
-    border: 5px solid darkred;
+    border: 5px solid rgb(149, 129, 129);
     border-radius: 50%;
     border-right-color: transparent;
     border-top-color: transparent;

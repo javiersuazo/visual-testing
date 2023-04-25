@@ -12,6 +12,6 @@ export const Lg = () => <Loading visible  size="lg" />;
 export const WithOverlay = () => (
     <div>
         Content
-        <Loading size="lg" visible overlay />
+        <Loading size="sm" visible overlay />
     </div>
 );
