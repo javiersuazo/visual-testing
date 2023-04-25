@@ -18,7 +18,7 @@
 }
 
 .c-loading--overlay {
-    background-color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(167, 26, 26, 0.7);
     position: absolute;
     z-index: 2;
     top: 0;
